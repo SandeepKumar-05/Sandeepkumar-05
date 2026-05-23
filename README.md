@@ -21,7 +21,7 @@ AI Engineer • LLM & RAG Developer • Full Stack Developer
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:sandeepkumarps005@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
@@ -46,8 +46,6 @@ AI Engineer • LLM & RAG Developer • Full Stack Developer
 # 🔭 Currently Working On
 
 - 🧠 LLM-based RAG Applications  
-- 🤟 Bidirectional Indian Sign Language System  
-- 📰 Multimodal Fake News Detection  
 - ⚡ Real-Time AI + Full Stack Applications  
 
 ---
@@ -174,27 +172,15 @@ AI Engineer • LLM & RAG Developer • Full Stack Developer
 
 ---
 
-## 🚁 AI Disaster Mapping Drone
-
-> Patent-stage AI-powered drone for rescue & disaster analysis
-
----
 
 # 🏆 Achievements
 
 - 📄 IEEE Publication — Bidirectional Indian Sign Language Converter  
 - 📄 IEEE Publication — AI-based Coconut Tree Harvesting Robot  
-- 🧠 Patent — AI-Powered Disaster Mapping Drone *(Under Process)*  
+
 
 ---
 
-# 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SandeepKumar-05&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SandeepKumar-05&theme=tokyonight&hide_border=true" height="170"/>
-</p>
 
 ---
 

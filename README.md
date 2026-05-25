@@ -146,10 +146,7 @@ AI Engineer • LLM & RAG Developer • Full Stack Developer
 - 📄 IEEE Publication — AI-based Coconut Tree Harvesting Robot  
 
 
----
 
-
----
 
 ---
 

@@ -138,39 +138,6 @@ AI Engineer • LLM & RAG Developer • Full Stack Developer
 
 ---
 
-# 🔥 Featured Projects
-
-## 🧠 LLM + RAG Chatbot
-
-> Context-aware AI chatbot using Retrieval-Augmented Generation
-
-- Semantic Search  
-- Vector Database Integration  
-- Intelligent Document Q&A  
-- LLM-powered responses  
-
----
-
-## 🤟 Bidirectional Indian Sign Language Converter
-
-> Real-time AI platform for Sign ↔ Text ↔ Speech conversion
-
-- YOLOv8 Gesture Detection  
-- Live Webcam Recognition  
-- Speech Synthesis  
-- React + Flask Architecture  
-
----
-
-## 📰 Multimodal Fake News Detector
-
-> AI system to detect fake news using text, images & video
-
-- NLP + OCR + Deep Learning  
-- Multilingual Detection  
-- AI-based Classification  
-
----
 
 
 # 🏆 Achievements
@@ -204,7 +171,3 @@ AI Engineer • LLM & RAG Developer • Full Stack Developer
 
 ---
 
-# ⚡ Developer Mindset
-
-> Building intelligent systems that combine  
-> **LLMs + Real-Time AI + Scalable Full Stack Applications** 🚀

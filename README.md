@@ -43,10 +43,7 @@ AI Engineer • LLM & RAG Developer • Full Stack Developer
 
 ---
 
-# 🔭 Currently Working On
 
-- 🧠 LLM-based RAG Applications  
-- ⚡ Real-Time AI + Full Stack Applications  
 
 ---
 

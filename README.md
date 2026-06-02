@@ -136,14 +136,6 @@ AI Engineer • LLM & RAG Developer • Full Stack Developer
 
 
 
-# 🏆 Achievements
-
-- 📄 IEEE Publication — Bidirectional Indian Sign Language Converter  
-- 📄 IEEE Publication — AI-based Coconut Tree Harvesting Robot  
-
-
-
-
 ---
 
 # 🌐 Portfolio

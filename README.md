@@ -45,9 +45,6 @@ AI Engineer • LLM & RAG Developer • Full Stack Developer
 
 ---
 
-
-
-
 # 🧠 Core Expertise
 
 - Large Language Models (LLMs)

@@ -9,7 +9,7 @@ Previously published at: [`IEEE NETACT 2025`](https://ieeexplore.ieee.org/abstra
 
 # Recent Projects
 
-1. [Signfy](https://ieeexplore.ieee.org/abstract/document/11188187) — Bidirectional ISL Converter
+1. [Signfy](#) — Bidirectional ISL Converter
    - A real-time Indian Sign Language conversion system achieving 94% accuracy (F1: 0.92) at sub-200ms latency using TensorFlow, YOLOv8, and a 3-tier FastAPI microservices architecture — published at IEEE NETACT 2025.
 
 2. [safeAnno](#) — Kerala Real-Time Disaster Alert System

@@ -2,8 +2,8 @@ Hi, I'm Sandeep. I'm an AI & Data Science engineer who builds production-grade A
 
 Previously published at: [`IEEE NETACT 2025`](https://ieeexplore.ieee.org/abstract/document/11188187)
 
-| ![](./profile-summary-card-output/dracula/0-profile-details.svg) | ![](./profile-summary-card-output/dracula/2-most-commit-language.svg) | ![](./profile-summary-card-output/dracula/4-productive-time.svg) |
-
+| ![](./profile-summary-card-output/dracula/3-stats.svg) | ![](./profile-summary-card-output/dracula/1-repos-per-language.svg) | ![](./profile-summary-card-output/dracula/2-most-commit-language.svg) |
+|------|------|------|
 # Recent Projects
 
 

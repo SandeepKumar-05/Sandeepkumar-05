@@ -2,8 +2,7 @@ Hi, I'm Sandeep. I'm an AI & Data Science engineer who builds production-grade A
 
 Previously published at: [`IEEE NETACT 2025`](https://ieeexplore.ieee.org/abstract/document/11188187)
 
-| ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SandeepKumar-05&theme=dracula) | ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SandeepKumar-05&theme=dracula) | ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SandeepKumar-05&theme=dracula) |
-|------|------|------|
+| ![](./profile-summary-card-output/dracula/0-profile-details.svg) | ![](./profile-summary-card-output/dracula/2-most-commit-language.svg) | ![](./profile-summary-card-output/dracula/4-productive-time.svg) |
 
 # Recent Projects
 

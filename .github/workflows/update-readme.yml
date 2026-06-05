@@ -4,21 +4,29 @@ on:
   push:
     branches: [main]
   schedule:
-    - cron: '0 */6 * * *'   # also refreshes every 6 hours
+    - cron: '0 */6 * * *'
+
+permissions:
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout repo
+        uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683  # v4.2.2
 
       - name: GitHub Profile Summary Cards
-        uses: vn7n24fzkq/github-profile-summary-cards@release
+        uses: vn7n24fzkq/github-profile-summary-cards@a76a99e3d7d11afde888b0f615e2d65e5d86cd16  # release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          INCLUDE_ALL_COMMITS: true
 
       - name: Commit changes
-        uses: EndBug/add-and-commit@v9
+        uses: EndBug/add-and-commit@a94899bca583c204427a224a7af87c02f9b325d  # v9.1.4
         with:
           message: 'chore: update profile stats [skip ci]'
           add: 'profile-summary-card-output/'
+          default_author: github_actions

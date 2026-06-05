@@ -1,5 +1,4 @@
-# Hi, I'm Sandeep Kumar P S 👋
-I'm an AI & Data Science engineer at [`AIRIZZ Consultancy Services`](https://airizz.co), where I build production-grade AI systems, NLP pipelines, and full-stack applications.
+Hi, I'm Sandeep. I'm an AI & Data Science engineer who builds production-grade AI systems, NLP pipelines, and full-stack intelligent applications.
 
 Previously published at: [`IEEE NETACT 2025`](https://ieeexplore.ieee.org/abstract/document/11188187)
 

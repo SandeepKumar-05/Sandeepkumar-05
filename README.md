@@ -2,10 +2,11 @@ Hi, I'm Sandeep. I'm an AI & Data Science engineer who builds production-grade A
 
 Previously published at: [`IEEE NETACT 2025`](https://ieeexplore.ieee.org/abstract/document/11188187)
 
-| ![](./profile-summary-card-output/dracula/3-stats.svg) | ![](./profile-summary-card-output/dracula/1-repos-per-language.svg) | ![](./profile-summary-card-output/dracula/2-most-commit-language.svg) |
-|------|------|------|
-# Recent Projects
 
+|![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SandeepKumar-05&theme=dracula)|![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SandeepKumar-05&theme=dracula)|![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SandedhKumar-05&theme=dracula)|
+|-----|------|------|
+
+# Recent Projects
 
 1. [Signfy](#) — Bidirectional ISL Converter
    - A real-time Indian Sign Language conversion system achieving 94% accuracy (F1: 0.92) at sub-200ms latency using TensorFlow, YOLOv8, and a 3-tier FastAPI microservices architecture — published at IEEE NETACT 2025.
